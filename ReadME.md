@@ -119,7 +119,7 @@ The search interval is reduced by half after every guess.
 bisection-guessing-game/
 │
 ├── main.py
-├── README.md
+├── ReadME.md
 └── LICENSE
 ```
 
@@ -142,13 +142,13 @@ bisection-guessing-game/
 ## Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/bisection-guessing-game.git
+git clone https://github.com/SalmaAlaa38/Bisection_Guessing_Game.git
 ```
 
 ## Navigate to the project
 
 ```bash
-cd bisection-guessing-game
+cd Bisection_Guessing_Game
 ```
 
 ## Run
