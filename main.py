@@ -2,6 +2,7 @@ import tkinter as tk
 from tkinter import messagebox
 
 # Game State
+# TO BE CHANGED INTO A CLASS!!!!!
 
 minimum = 1
 maximum = 100
